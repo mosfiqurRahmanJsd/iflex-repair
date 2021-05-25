@@ -1,0 +1,8 @@
+footer {
+    min-height: 250px;
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+.size{
+    font-size: 2em;
+}

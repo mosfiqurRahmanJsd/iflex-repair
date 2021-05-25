@@ -1,0 +1,6 @@
+.background-image {
+    background-image: url("https://i.ibb.co/pJL0D9p/aaa.jpg");
+    min-height: 650px;
+    background-position: center;
+    background-size: cover;
+}
